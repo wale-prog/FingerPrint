@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">fingerprintdemo</string>
+    <string name="SUCCESSINFO">Scanning fingerprint success!</string>
+    <string name="FAILEDINFO">Scanning fingerprint failed!</string>
+    <string name="DEVICEFAILED">error on device or Fingerprints are not recorded</string>
+    <string name="MESSAGE">Please press the fingerprints!</string>
+    <string name="MESSAGE1">Please press the first fingerprint</string>
+    <string name="MESSAGE2">Please press the second fingerprint</string>
+    <string name="MESSAGE3">Please press the third fingerprint</string>
+    <string name="MatchSuccess">match success! matching degree :</string>
+    <string name="MatchFailed">match failed!</string>
+    <string name="Cleared">Cleared</string>
+    <string name="entry">Successful entry</string>
+    <string name="entrybutton">Fingerprint entry</string>
+    <string name="matchbutton">Fingerprint matching</string>
+    <string name="clearlogbutton">Clear log</string>
+    <string name="cleardata">Clear Fingerprint Data</string>
+</resources>
