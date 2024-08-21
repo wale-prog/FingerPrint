@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Cleared">已清除!</string>
+    <string name="DEVICEFAILED">指纹未录入or设备出错!</string>
+    <string name="FAILEDINFO">扫描指纹失败!</string>
+    <string name="MESSAGE">请按指纹</string>
+    <string name="MESSAGE1">请按第一个指纹</string>
+    <string name="MESSAGE2">请按第二个指纹</string>
+    <string name="MESSAGE3">请按第三个指纹</string>
+    <string name="MatchFailed">匹配失败!</string>
+    <string name="MatchSuccess">匹配成功! match匹配度:</string>
+    <string name="SUCCESSINFO">扫描指纹成功!</string>
+    <string name="app_name">fingerprintdemo</string>
+    <string name="cleardata">清除已录指纹</string>
+    <string name="clearlogbutton">清除日志</string>
+    <string name="entry">已录入!</string>
+    <string name="entrybutton">指纹录入</string>
+    <string name="matchbutton">指纹匹配</string>
+</resources>

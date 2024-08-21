@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\HP\\Documents\\Projects\\FingerprintForAar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\Documents\\Projects\\FingerprintForAar\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "from": {
+                        "startLines": "11,4,3,5,6,7,8,10,9,2,1,16,15,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "508,168,120,223,265,311,357,461,403,71,17,731,682,550,590,636",
+                        "endColumns": "40,53,46,40,44,44,44,45,56,47,52,44,47,38,44,44",
+                        "endOffsets": "544,217,162,259,305,351,397,502,455,114,65,771,725,584,630,676"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,150,197,238,283,328,373,419,476,524,577,622,670,709,754",
+                        "endColumns": "40,53,46,40,44,44,44,45,56,47,52,44,47,38,44,44",
+                        "endOffsets": "91,145,192,233,278,323,368,414,471,519,572,617,665,704,749,794"
+                    }
+                }
+            ]
+        }
+    ]
+}
